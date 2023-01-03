@@ -9,4 +9,9 @@
  */
 module.exports = {
   plugins: [],
+  siteMetadata: {
+    title: '//JustKode',
+    description: 'Bringing Technology To The Masses.',
+    copyright: 'This website is copyrighted 2023 JustKode'
+  }
 }
